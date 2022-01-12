@@ -1,7 +1,7 @@
 <h3 align="center">Johnpaul Eyibra 🤔</h3>
 <p align="center">
-  <a href="#">Frontend Developer</a> | 
-  <a href="#"> ReactJs</a> |
-	<a href="#"> NodeJs</a>
+  <p>Frontend Developer</p> | 
+  <p> ReactJs</p> |
+  <p> NodeJs</p>
   <br>
 </p>
