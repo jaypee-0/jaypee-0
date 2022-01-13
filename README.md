@@ -3,6 +3,6 @@
 <p align="center">
   <b>Frontend Developer</b> | 
   <b> ReactJs</b> |
-  <b> NodeJs</b>
+  <b> OneGaming</b>
   <br><br><br><br>
 </p>
