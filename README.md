@@ -11,8 +11,8 @@
 
 ## :handshake:   Let's Connect
 
-- LinkedIn: [linkedin.com/in/nwaforuchechukwu]([https://www.linkedin.com/in/jaypee-/])
-- Mail: nwaforuchechukwu2007@gmail.com
+- LinkedIn: [linkedin.com/in/jaypee-]([https://www.linkedin.com/in/jaypee-/])
+- Mail: eyibrajohnpaul@gmail.com
 
 
 ## Technologies and Tools:
