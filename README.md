@@ -33,9 +33,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
-<a href="#">
-  ![Jaypee's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaypee-0&count_private=true&theme=radical&border_radius=10)
-</a>
+![Jaypee's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaypee-0&count_private=true&theme=radical&border_radius=10)
+
 
 &nbsp;
 
