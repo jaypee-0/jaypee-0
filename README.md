@@ -31,6 +31,6 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaypee-0&theme=radical&border_radius=10")](https://github.com/jaypee-0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaypee-0&theme=radical&border_radius=10")(https://github.com/jaypee-0/github-readme-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaypee-0&label=Profile%20views&color=F75412&style=flat" alt="jaypee" /> </p>
