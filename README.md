@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Serif&size=24&duration=4000&color=F75412&left=true&vCenter=true&width=1000&height=50&lines=Hi+there%2C+%F0%9F%91%8B;Jaypee+here)](https://git.io/typing-svg)
 <h3 align="left">A detailed and goal-oriented builder using software development to create beautiful things.</h3>
 
-- 👌 I’m currently learning **Typescript**
+- 👌 I’m currently learning **Typescript** & **Redux**
 
 - 📫 How to reach me **eyibrajohnpaul@gmail.com**
 
@@ -34,7 +34,7 @@
 </p>
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypee-0&theme=radical&border_radius=10" />
+  ![Jaypee's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaypee-0&count_private=true&theme=radical&border_radius=10)
 </a>
 
 &nbsp;
