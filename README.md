@@ -34,7 +34,7 @@
 </p>
 
 ![Jaypee's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaypee-0&count_private=true&theme=radical&border_radius=10)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaypee-0&langs_count=10)](https://github.com/jaypee-0/github-readme-stats)
 
 &nbsp;
 
