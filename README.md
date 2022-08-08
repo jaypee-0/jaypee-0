@@ -30,7 +30,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypee-0&theme=radical&border_radius=10" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaypee-0&theme=radical&border_radius=10")(https://github.com/jaypee-0/github-readme-stats)
+&nbsp;
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaypee-0&label=Profile%20views&color=F75412&style=flat" alt="jaypee" /> </p>
