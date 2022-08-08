@@ -14,6 +14,7 @@
 - LinkedIn: [linkedin.com/in/jaypee-]([https://www.linkedin.com/in/jaypee-/])
 - Mail: eyibrajohnpaul@gmail.com
 
+<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=jaypee-0&layout=compact" alt="Jaypee" />
 
 ## Technologies and Tools:
 <p align="left">
@@ -33,6 +34,10 @@
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypee-0&theme=radical&border_radius=10" />
 </a>
+
+&nbsp;
+
+<img height="120" alt="VIsit me as much as you can." width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
 &nbsp;
 
