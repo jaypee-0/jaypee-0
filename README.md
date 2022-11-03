@@ -33,7 +33,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="50" style="vertical-align:top; margin:5px"/> </a> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaypee-0&langs_count=8&theme=dracula&border_radius=10&layout=compact&hide=python,C,powershell,html)](https://github.com/jaypee-0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaypee-0&langs_count=8&theme=dracula&border_radius=10&layout=compact&hide=python,C,powershell,html,jupyter_notebook)](https://github.com/jaypee-0/github-readme-stats)
 ![Jaypee's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaypee-0&count_private=true&theme=radical&border_radius=10)
 
 &nbsp;
